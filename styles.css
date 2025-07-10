@@ -1,0 +1,54 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Mulish', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #ffffff;
+}
+
+/* Typography */
+h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #333;
+}
+
+/* Main Content */
+main {
+    padding: 0.3rem 5rem;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+/* Hero Section */
+.hero {
+    padding: 4rem 0;
+    margin-bottom: 3rem;
+}
+
+.hero h1 {
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    max-width: 600px;
+}
+
+ 
